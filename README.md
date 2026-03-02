@@ -128,7 +128,7 @@ ARROS generates structured academic reports with:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/arros.git
+git clone https://github.com/girixyz/arros
 cd arros
 ```
 
