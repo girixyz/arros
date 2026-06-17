@@ -26,9 +26,6 @@
 8. [Indian Language Support](#indian-language-support)
 9. [Deployment](#deployment)
 10. [Environment Variables](#environment-variables)
-11. [Contributing](#contributing)
-12. [License](#license)
-
 ---
 
 ## Overview
