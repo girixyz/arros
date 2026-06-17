@@ -511,16 +511,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Indian student community** — For inspiration and feedback
 
 ---
-
-## Support
-
-- 📧 Email: support@arros.ai
-- 💬 Discord: [Join our community](https://discord.gg/arros)
-- 🐛 Issues: [Report bugs](https://github.com/yourusername/arros/issues)
-
----
-
-<p align="center">
-  Made with ❤️ in India<br>
-  <sub>ARROS — Academic Research OS</sub>
-</p>
